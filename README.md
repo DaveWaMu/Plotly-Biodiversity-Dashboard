@@ -1,6 +1,6 @@
 # Plotly Biodiversity Dashboard
 
-Interactive Plotly dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
+Interactive [Plotly dashboard](https://davewamu.github.io/Plotly-Biodiversity-Dashboard/) to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
 
 ## Dashboard
 
@@ -22,7 +22,7 @@ Interactive Plotly dashboard to explore the Belly Button Biodiversity dataset, w
    - Display the sample metadata.
    - Display each key-value pair from the metadata JSON object.
    - Update all of the plots any time that a new sample is selected.
-   - Deploy app to GitHub Pages.
+   - Deploy app to [GitHub Pages](https://davewamu.github.io/Plotly-Biodiversity-Dashboard/).
 
 ## Bacteria Cultures
 
